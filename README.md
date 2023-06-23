@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+🔭 I’m currently working as a DevOps Intern
+🌱 I’m currently learning MERN Stack Development
+👯 I’m looking to collaborate on Web Development Projects
+🤔 I’m looking for oppurtunities in Web Development and DevOps
+📫 Contact me: https://www.linkedin.com/in/abisekpillai/
 <!--
 **abisekpillai/abisekpillai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
